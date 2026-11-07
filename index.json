@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "pyobjus",
+  "versions": [
+    {
+      "commit": "0c204ada4a5aa4f065ac65fc678c6cb35e4dcb81",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:19:16.825533+00:00"
+    }
+  ]
+}
